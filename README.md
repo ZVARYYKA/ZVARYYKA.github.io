@@ -1,2 +1,2 @@
-# SITE
+# MY SITE
 zvaryyka.me
